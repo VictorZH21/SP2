@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\bin\Debug\ПР2_2.exe.config
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\bin\Debug\ПР2_2.exe
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\bin\Debug\ПР2_2.pdb
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\obj\Debug\ПР2_2.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\obj\Debug\ПР2_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\obj\Debug\ПР2_2.Form1.resources
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\obj\Debug\ПР2_2.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\obj\Debug\ПР2_2.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\obj\Debug\ПР2_2.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\obj\Debug\ПР2_2.exe
+C:\Users\CoFFey\source\repos\ПР2_2\ПР2_2\obj\Debug\ПР2_2.pdb

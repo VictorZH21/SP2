@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\ПР2\ПР2\bin\Debug\ПР2.exe.config
+C:\Users\CoFFey\source\repos\ПР2\ПР2\bin\Debug\ПР2.exe
+C:\Users\CoFFey\source\repos\ПР2\ПР2\bin\Debug\ПР2.pdb
+C:\Users\CoFFey\source\repos\ПР2\ПР2\bin\Debug\System.CodeDom.dll
+C:\Users\CoFFey\source\repos\ПР2\ПР2\bin\Debug\System.CodeDom.xml
+C:\Users\CoFFey\source\repos\ПР2\ПР2\obj\Debug\ПР2.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\ПР2\ПР2\obj\Debug\ПР2.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\ПР2\ПР2\obj\Debug\ПР2.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\ПР2\ПР2\obj\Debug\ПР2.csproj.CopyComplete
+C:\Users\CoFFey\source\repos\ПР2\ПР2\obj\Debug\ПР2.exe
+C:\Users\CoFFey\source\repos\ПР2\ПР2\obj\Debug\ПР2.pdb
